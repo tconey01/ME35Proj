@@ -40,11 +40,3 @@ Motor1 = Motor(13, 12, 16, 17, counts_per_rev=3829)
 # Launch at 120° angle with 80% speed
 Motor1.move_to_angle(120, speed=80, overshoot_comp=20)
 ```
-
-## Demo Results
-
-Successfully launched ball into target cup at randomly selected distance. Effective range: [insert your range].
-
-## Demo Video
-
-[Insert demo video/GIF here]
